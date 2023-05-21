@@ -1,0 +1,45 @@
+body {
+    box-sizing: border-box;
+    font-size: 20px;
+    
+}
+.wraper-mail{
+    max-width: 1000px;
+    max-height: 900px;
+    margin:auto;
+}
+header {
+         text-transform: uppercase;
+         color:dodgerblue;
+         font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+         letter-spacing: 5px;
+         word-spacing: 0.3em;
+         font-weight: 200;
+         text-align: center;
+}
+caption{
+    margin-bottom: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    color:rgb(204, 149, 221)
+}
+table {
+    border: 5px solid rgb(125, 55, 211);
+    width: 100%;
+    border-collapse:separate;
+    border-radius: 5px;
+    
+}
+th ,td{
+    padding: 20px;
+    border: 4px solid rgb(186, 142, 240);
+    border-radius: 5px;
+}
+
+th{
+    background-color: rgb(107, 176, 244);
+    
+}
+p {
+    margin-left: 75%;
+}
